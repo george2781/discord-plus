@@ -1,3 +1,6 @@
+# A custom version of Discord+ (I literally just change the background)
+For some reason.
+
 # ![Discord+](https://github.com/PlusInsta/discord-plus/blob/master/assets/wordmark_white.svg)
 A sleek, customizable Discord theme, inspired by Material.
 
